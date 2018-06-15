@@ -1,6 +1,6 @@
 /**
 \file       led.c
-\author     Eddy Ferre - ferree@seattleu.edu
+\author     Eddy Ferre - ferree@seattleu.edu, Nassuel Valera Cuevas - valeran1@seattleu.edu, Eli Smith - smithe25@seattleu.edu
 \date       01/13/2018
 
 \brief      Main persistence of vision file for the rotor RPi controller.
